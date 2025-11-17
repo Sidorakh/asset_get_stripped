@@ -91,3 +91,5 @@ function asset_get_stripped(_assetName)
         return struct_exists(_projectResourceDict, _assetName);
     }
 }
+
+show_debug_message("Thank you for using `asset_get_stripped()` by Juju Adams! This version 1.0.0, 2025-11-17.");
