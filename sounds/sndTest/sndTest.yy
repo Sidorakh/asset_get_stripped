@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"sndTest",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":0.586091,
+  "name":"sndTest",
+  "parent":{
+    "name":"Test Assets",
+    "path":"folders/Test Assets.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"sndTest.wav",
+  "type":0,
+  "volume":1.0,
+}
